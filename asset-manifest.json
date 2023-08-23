@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/firstreactlivewebsite/static/css/main.99e4cf39.css",
-    "main.js": "/firstreactlivewebsite/static/js/main.51793e69.js",
-    "index.html": "/firstreactlivewebsite/index.html",
-    "main.99e4cf39.css.map": "/firstreactlivewebsite/static/css/main.99e4cf39.css.map",
-    "main.51793e69.js.map": "/firstreactlivewebsite/static/js/main.51793e69.js.map"
+    "main.css": "/ReactBootStrap/static/css/main.99e4cf39.css",
+    "main.js": "/ReactBootStrap/static/js/main.51793e69.js",
+    "index.html": "/ReactBootStrap/index.html",
+    "main.99e4cf39.css.map": "/ReactBootStrap/static/css/main.99e4cf39.css.map",
+    "main.51793e69.js.map": "/ReactBootStrap/static/js/main.51793e69.js.map"
   },
   "entrypoints": [
     "static/css/main.99e4cf39.css",
